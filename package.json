@@ -1,0 +1,32 @@
+{
+  "name": "freetime-cli",
+  "version": "0.0.3",
+  "description": "CLI tool to register new posts on free-time",
+  "scripts": {
+    "start": "./lib/freetime-cli.js",
+    "nodemon": "nodemon lib/freetime-cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/free-time/freetime-cli.git"
+  },
+  "keywords": [
+    "free-time",
+    "cli"
+  ],
+  "author": "Fernando Daciuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/free-time/freetime-cli/issues"
+  },
+  "homepage": "https://github.com/free-time/freetime-cli",
+  "preferGlobal": true,
+  "bin": {
+    "freetime": "lib/freetime-cli.js"
+  },
+  "dependencies": {
+    "inquirer": "^0.9.0",
+    "moment": "^2.10.6",
+    "slug": "^0.9.1"
+  }
+}
