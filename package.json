@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "CLI tool to register new posts on free-time",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./lib/freetime-cli.js",
+    "nodemon": "nodemon lib/freetime-cli.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +24,10 @@
   "preferGlobal": true,
   "bin": {
     "freetime": "lib/freetime-cli.js"
+  },
+  "dependencies": {
+    "inquirer": "^0.9.0",
+    "moment": "^2.10.6",
+    "slug": "^0.9.1"
   }
 }
