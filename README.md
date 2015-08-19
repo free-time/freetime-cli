@@ -21,10 +21,10 @@ freetime
 #### Title 
 Post title
 
-#### Duration:
+#### Duration
 Talk duration
 
-#### Categories:
+#### Categories
 Categories (separated by commas)
 
 #### Image Path
