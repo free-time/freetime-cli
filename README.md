@@ -18,12 +18,12 @@ freetime
 
 ## Questions
 
-**Title:** Post title
-**Duration:** Talk duration
-**Categories:** Categories
-**Image Path:** Image Path (absolute or relative)
-**Link:** Talk link
-**Path to save:** Path to save file (absolute or relative)
+- **Title:** Post title
+- **Duration:** Talk duration
+- **Categories:** Categories
+- **Image Path:** Image Path (absolute or relative)
+- **Link:** Talk link
+- **Path to save:** Path to save file (absolute or relative)
 
 ## License
 
