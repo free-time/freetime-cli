@@ -1,6 +1,6 @@
 {
   "name": "freetime-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CLI tool to register new posts on free-time",
   "scripts": {
     "start": "./lib/freetime-cli.js",
