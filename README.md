@@ -4,7 +4,7 @@
 
 ## Installation
 
-Install with NPM:
+Installing via NPM:
 
 ```sh
 [sudo] npm i -g freetime-cli
@@ -12,31 +12,44 @@ Install with NPM:
 
 ## Usage
 
+Just type on terminal:
+
 ```sh
 freetime
 ```
 
 ## Questions
 
-#### Title 
-Post title
+**Title**
 
-#### Duration
-Talk duration
+Post title.
 
-#### Categories
-Categories (separated by commas)
+> Example: Talk Name - Speaker's name
 
-#### Image Path
-Image Path (absolute or relative)
+**Duration**
 
-#### URL
+Talk duration.
+
+> Example: 45min
+
+**Tags**
+
+Tags separated by commas.
+
+> Example: NodeJS, Gulp, Automation
+
+**Image Name**
+
+Image name, located inside `/assets/image/speakers/`.
+
+> Example: speaker-name.jpg
+
+**URL**
+
 Talk link
 
-#### Path to save
-Path to save file (absolute or relative)
-> _default_: actual directory
+> Example: http://speackerdeck.com/user/talk-name
 
 ## License
 
-MIT (c) Free-time
+[MIT](LICENSE.md) &copy; Free-time
