@@ -20,33 +20,23 @@ freetime
 
 ## Questions
 
-**Title**
-
-Post title.
+**Title:** Post title.
 
 > Example: Talk Name - Speaker's name
 
-**Duration**
-
-Talk duration.
+**Duration:** Talk duration.
 
 > Example: 45min
 
-**Tags**
-
-Tags separated by commas.
+**Tags:** Tags separated by commas.
 
 > Example: NodeJS, Gulp, Automation
 
-**Image Name**
-
-Image name, located inside `/assets/image/speakers/`.
+**Image Name:** Image name, located inside `/assets/image/speakers/`.
 
 > Example: speaker-name.jpg
 
-**URL**
-
-Talk link
+**URL:** Talk link
 
 > Example: http://speackerdeck.com/user/talk-name
 
