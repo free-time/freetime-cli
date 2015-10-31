@@ -22,7 +22,11 @@ freetime
 
 **Title:** Post title.
 
-> Example: Talk Name - Speaker's name
+> Example: Talk Name
+
+**Speaker:** Speaker's name.
+
+> Example: John Doe
 
 **Duration:** Talk duration.
 
