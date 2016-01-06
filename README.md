@@ -12,7 +12,7 @@ Installing via NPM:
 
 ## Usage
 
-Just type on terminal:
+Just type on terminal, inside of `freetime` directory:
 
 ```sh
 freetime
