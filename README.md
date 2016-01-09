@@ -2,6 +2,10 @@
 
 > CLI tool for register new posts on free-time
 
+## Requirements
+
+* [Node 4+](https://nodejs.org/en/download/)
+
 ## Installation
 
 Installing via NPM:
