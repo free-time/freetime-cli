@@ -1,6 +1,6 @@
 # freetime-cli
 
-> CLI tool for register new posts on free-time
+> CLI tool for registering new posts on free-time
 
 ## Requirements
 
